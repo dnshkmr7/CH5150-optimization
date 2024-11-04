@@ -2,7 +2,7 @@
 
 This project explores solving optimization problems for chemical engineering applications using deterministic and evolutionary algorithms.
 
-## Problem 1 : Determining rate onstants
+## Problem 1 : Determining rate constants
 
 The system involves parallel reactions happening in an isothermal batch reactor. The rate equations need to be solved to determine the rate constants k1 and k2. I lost the data for this problem but the data contained time, concentration of components CA, CB, and CC.
 
