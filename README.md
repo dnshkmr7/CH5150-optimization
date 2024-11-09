@@ -37,7 +37,7 @@ This problem utilizes the following python libraries:
 
 ### Results
 
-| Method     | Convergence     | k1_opt             | k2_opt             | Accuracy           | Execution Time  |
+| Method     | Convergence     | k1_opt             | k2_opt             | Error              | Execution Time  |
 |------------|-----------------|--------------------|--------------------|--------------------|-----------------|
 | Nelder-Mead| Converged       | 1.9998748692788715 | 3.9997615838621496 | 1.962460e-05       | 0.149742        |
 | Powell     | Converged       | 1.9999018222782379 | 3.999807785445786  | 1.954439e-05       | 0.304135        |
